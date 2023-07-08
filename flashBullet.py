@@ -1,5 +1,5 @@
 import random
-from pushbullet import Pushbullet
+from pushbullet import Pushbullet #remember to pip install pushbullet.py!
 
 #Pushbullet API key required to use pushbullet:
 API_KEY = 'yourapikeyhere'
