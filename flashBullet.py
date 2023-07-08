@@ -29,4 +29,4 @@ pb = Pushbullet(API_KEY)
 # Send the Pushbullet notification
 push = pb.push_note(title, body)
 
-#task schedule this at the frequency you want and enjoy your studies!
+#Schedule this script at the frequency you want, and enjoy your studies!
