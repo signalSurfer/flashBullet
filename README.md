@@ -10,3 +10,8 @@ Here's how it works:</br>
 </ol>
 
 I plan on making dictionaries as I study new topics, Please feel free to pull request your own!
+
+
+<b>ChatGPT will make a dictionary for you, here is an example prompt:</b> </br>
+<i>Please create a python dictionary with keys that are vocabulary words, and values are definitions of the keys. There should be at least _______ key value pairs, and they should all be _______ themed.</i></br></br>
+![exampleGPT](https://github.com/signalSurfer/flashBullet/assets/130820868/8305acf5-0c24-4b55-87c6-74b9c8097cda)
